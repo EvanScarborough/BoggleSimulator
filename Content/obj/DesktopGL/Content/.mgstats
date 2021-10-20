@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/EvanS/Desktop/programming/MonoGame/boggle/Content/europe.spritefont","/Users/EvanS/Desktop/programming/MonoGame/boggle/Content/bin/DesktopGL/Content/europe.xnb","FontDescriptionProcessor","SpriteFontContent",2006,13346,0.326252
+"/Users/EvanS/Desktop/programming/MonoGame/boggle/Content/Roboto.spritefont","/Users/EvanS/Desktop/programming/MonoGame/boggle/Content/bin/DesktopGL/Content/Roboto.xnb","FontDescriptionProcessor","SpriteFontContent",2010,267298,0.350068
+"/Users/EvanS/Desktop/programming/MonoGame/boggle/Content/Roboto.ttf","/Users/EvanS/Desktop/programming/MonoGame/boggle/Content/bin/DesktopGL/Content/Roboto.ttf","CopyItem","File",171656,171656,0.002015
